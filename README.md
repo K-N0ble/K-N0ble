@@ -9,3 +9,6 @@ I attended a very small private school in Airdrie from kindergarten until I grad
 - Gaming
 - Snowboarding
 - Art
+
+### Future Interests:
+I am interested in learning different programming languages, especially object-oriented languages. Becoming proficient in more languages will help me advance my career, as well as give me the tools to work on personal projects.
