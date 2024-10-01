@@ -1,4 +1,6 @@
-# Hello, world! 👋
+# 👋 Hi! My name is Kristen Noble
+
+I am currently a student at SAIT, studying web development. I also have a part-time job at London Drugs as both a Tech and a Photolab Specialist. I am pursuing my interests in both art and technology through my schooling as well as my own personal studies.
 
 <!--
 **K-N0ble/K-N0ble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
